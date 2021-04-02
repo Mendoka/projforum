@@ -1,0 +1,8 @@
+br/com/forumbrabo/model/Usuario.class
+br/com/forumbrabo/model/Mensagem.class
+br/com/forumbrabo/dao/MensagemDAO.class
+br/com/forumbrabo/dao/UsuarioDAO.class
+br/com/forumbrabo/App.class
+br/com/forumbrabo/util/MyCustomFilter.class
+br/com/forumbrabo/util/ForumUtils.class
+br/com/forumbrabo/util/Listener.class
